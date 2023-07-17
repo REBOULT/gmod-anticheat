@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"AVL Anti-Cheats"
+	"author_name"			"Kuwait"
+	"author_email"			"johnduckesent@gmail.com"
+	"author_url"			""
+	"info"				"AVL Anti-Cheats to detect all the good stuff"
+	"version"			"1.12.0"
+}
